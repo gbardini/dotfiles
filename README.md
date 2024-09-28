@@ -38,3 +38,23 @@ On the other hand, it took me 4 days to discover and compile the right applicati
 
 Arch and aur packages are so life changing.
 Didn't try NixOs yet, but it seens "different".
+
+## i3
+maim
+xclip
+xsetroot
+viewnior
+betterlockscreen
+dunst
+picom
+xsettingsd
+nord theme
+pipewire
+pavucontrol
+alacritty
+
+
+JetBrains Nerd Font
+
+On i3, there are two config folders, one more simple to use with 1 monitor and other to use with 2 monitors.
+OBS: if youre using ubuntu, build i3 from source, dont use ubuntu repositories.

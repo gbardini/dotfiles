@@ -50,3 +50,7 @@ xsetroot -cursor_name left_ptr
 
 # Fix f1-f12 keys
 "$idir"/scripts/i3_f1_f12_keys.sh
+
+# audio
+/usr/bin/pipewire &
+/usr/bin/pipewire-pulse &
